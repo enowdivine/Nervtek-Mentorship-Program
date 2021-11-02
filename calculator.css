@@ -1,0 +1,37 @@
+
+td{
+    padding: 5px;
+    height: 20px;
+    border: rgb(104, 182, 15);
+}
+table{
+    background-color:rgb(4, 39, 19);
+    border-style: solid;
+    border-color:rgb(250, 244, 247) #ece4e8 rgb(212, 203, 205) rgb(230, 226, 226);
+    border-radius: 15px
+    ;
+}
+input[type=button]{
+    background-color:rgb(255, 255, 255);
+    border-style: double;
+    border-color:tan;
+}
+input[type=reset]{
+    background-color: rgb(250, 174, 34);
+    border-radius: 15px;
+    border-color :tan;
+    border-style: solid;
+}
+input[type=text]{
+    background-color:white;
+    border-radius: 15px;
+    border-color :tan;
+    border-style: solid;
+}
+
+tr{
+    border: 1px solid black;
+    height: 10px;
+    width: 200px;
+
+}
